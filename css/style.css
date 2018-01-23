@@ -79,16 +79,12 @@
 
     .welcome h2 {
         color: #333333;
-        font-size: 30px;
         text-transform: uppercase;
         margin: 82px 46px 0 25px;
-        line-height: 1;
     }
 
     .welcome p {
         color: #333333;
-        font-size: 18px;
-        line-height: 0.778;
         margin: 24px 30px 0 22px;
     }
 
@@ -106,12 +102,12 @@
     .title__cup h2 {
         font-size: 48px;
         text-transform: uppercase;
-        margin-bottom: 5px;
+        margin: 0;
+
     }
 
-    .title_cup p {
-        line-height: 0.708;
-        margin-top: 0;
+    .title_cup span {
+        margin: 0;
     }
 
     .btn {
